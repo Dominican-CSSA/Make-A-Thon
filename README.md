@@ -1,5 +1,5 @@
 # Make-A-Thon
-The Barowsky School of Business will be hosting a Make-A-Thon in partnership with The Computer Science Student Association (CSSA), at The Dominican University of California. Participants will work together to create a pitch & prototype for a project. Projects can be anything: business ideas, software products, art proposals, etc. Anyone that wants to participate is allowed from first-year students to graduate students. 
+The Barowsky School of Business will be hosting a Make-A-Thon in partnership with Applied Computer Science Students, at The Dominican University of California. Participants will work together to create a pitch & prototype for a project. Projects can be anything: business ideas, software products, art proposals, etc. Anyone that wants to participate is allowed, from first-year students to graduate students. 
 
 ## Goals
 1. Allow participants to build portfolio projects
@@ -32,4 +32,4 @@ The Barowsky School of Business will be hosting a Make-A-Thon in partnership wit
 | 5:30 PM - 6:00 PM   | Guest Speaker      |
 | 6:00 PM - 6:30 PM   | Wrap Up Event      |
 
-\* Schedule not final but rough outline
+\* Schedule not final but a rough outline
