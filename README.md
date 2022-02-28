@@ -7,9 +7,10 @@ The Barowsky School of Business will be hosting a Make-A-Thon in partnership wit
 3. Allow attendees to gain industry knowledge via workshops, mentors, and speakers
 
 ## Prizes
-1. Dominican Swag
-2. Showcase at Business Bash
-3. Published article on winners
+1. Scholarship Money
+2. Dominican Swag
+3. Showcase at Business Bash
+4. Published article on winners
 
 ## Schedule
 ### Day 1 - April 1
